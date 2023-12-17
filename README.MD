@@ -1,0 +1,1 @@
+This Task is about Getting data from API using Fetch Method.
